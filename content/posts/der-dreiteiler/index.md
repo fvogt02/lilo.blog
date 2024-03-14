@@ -4,7 +4,7 @@ date = "2024-03-14"
 draft = false
 pinned = false
 tags = ["Dreiteiler"]
-image = "file:///C:/Users/fluri/Desktop/h-301101_3_1.jpg"
+image = "blueclassicsuit_1_2048x.webp"
 +++
 **Der Dreiteiler**
 

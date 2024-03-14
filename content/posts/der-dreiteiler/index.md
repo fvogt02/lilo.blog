@@ -4,7 +4,7 @@ date = "2024-03-14"
 draft = false
 pinned = false
 tags = ["Dreiteiler"]
-image = "blueclassicsuit_1_2048x.webp"
+image = ""
 +++
 **Der Dreiteiler**
 

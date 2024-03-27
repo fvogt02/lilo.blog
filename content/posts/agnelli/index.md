@@ -3,7 +3,7 @@ title = "Gianni Agnelli "
 date = "2024-03-27"
 draft = false
 pinned = false
-description = ""
+description = "Gianni Agnelli war eine Italienische Ikone."
 footnotes = "Dies ist ein Test, bitte nicht böse nehmen wenn etwas nicht stimmt!"
 +++
 ## WER?
@@ -30,10 +30,14 @@ https://bellevue.nzz.ch/mode-beauty/stilikone-gianni-agnelli-ld.112688
 
 
 
+
+
+
+
 {{<box>}}
 
 Caraceni ist ein Berühmter Mailänder Schneider der Agnelli eingekleidet hat.
 
 {{</box>}}
 
----
+- - -

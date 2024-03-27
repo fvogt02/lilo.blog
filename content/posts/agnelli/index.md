@@ -1,7 +1,7 @@
 +++
 title = "Gianni Agnelli "
 date = "2024-03-27"
-draft = false
+draft = true
 pinned = false
 description = "Gianni Agnelli war eine Italienische Ikone."
 footnotes = "Dies ist ein Test, bitte nicht böse nehmen wenn etwas nicht stimmt!"

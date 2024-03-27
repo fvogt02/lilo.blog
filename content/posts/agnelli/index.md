@@ -4,10 +4,15 @@ date = "2024-03-27"
 draft = false
 pinned = false
 description = ""
+footnotes = "Dies ist ein Test, bitte nicht böse nehmen wenn etwas nicht stimmt!"
 +++
 ## WER?
 
+{{<lead>}}
+
 Gianni Agnelli war ein italienischer Unternehmer dem Fiat gehört hat.
+
+{{</lead>}}
 
 ### Was
 
@@ -22,3 +27,13 @@ https://bellevue.nzz.ch/mode-beauty/stilikone-gianni-agnelli-ld.112688
 > Gianni Agnelli war weder Italiens König noch Präsident, doch zu seinen Lebzeiten regierte er in den Augen vieler das Land
 >
 > *\-NZZ Belvue*
+
+
+
+{{<box>}}
+
+Caraceni ist ein Berühmter Mailänder Schneider der Agnelli eingekleidet hat.
+
+{{</box>}}
+
+---

@@ -20,7 +20,7 @@ Gianni Agnelli war ein italienischer Unternehmer dem Fiat gehört hat.
 
 #### WO
 
-![](https://www.srf.ch/static/cms/images/960w/-srf-4/international/2021/03-2021/677979.agnelli.jpg-.jpg)
+![von SRF](https://www.srf.ch/static/cms/images/960w/-srf-4/international/2021/03-2021/677979.agnelli.jpg-.jpg "Agnelli")
 
 https://bellevue.nzz.ch/mode-beauty/stilikone-gianni-agnelli-ld.112688
 

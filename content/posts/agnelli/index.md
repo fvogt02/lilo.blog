@@ -10,7 +10,7 @@ footnotes = "Dies ist ein Test, bitte nicht böse nehmen wenn etwas nicht stimmt
 
 {{<lead>}}
 
-Gianni Agnelli war ein italienischer Unternehmer dem Fiat gehört hat.
+Gianni Agnelli war ein italienischer Unternehmer, dem Fiat gehört hat.
 
 {{</lead>}}
 
@@ -28,15 +28,9 @@ https://bellevue.nzz.ch/mode-beauty/stilikone-gianni-agnelli-ld.112688
 >
 > *\-NZZ Belvue*
 
-
-
-
-
-
-
 {{<box>}}
 
-Caraceni ist ein Berühmter Mailänder Schneider der Agnelli eingekleidet hat.
+Caraceni ist ein berühmter Mailänder Schneider, der Agnelli eingekleidet hat. Den Flannel von ihm kann man noch kaufen.
 
 {{</box>}}
 

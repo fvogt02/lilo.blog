@@ -27,6 +27,10 @@ Herr Schenk arbeitete, bevor er die Zähringer Bank mitgründete, bei der Wegeli
 Das Bild einer grünen Wiese, das einen Neuanfang symbolisiert, ist für die Zähringer Bank sehr wichtig. Die Zähringer startete ihr Geschäft im Jahr 2015 ohne Altlasten. Damit konnte sie sich laut Martin Schenk auf die neue Bankenwelt ausrichten. Das Gründen einer Bank sei keine One-Man-Show, so brauchten sie zum Gründen der Zähringer ein Kapital von 20 Millionen Franken; im Gesetz stehe zwar die Hälfte, doch die FINMA (Finanzaufsichtbehörde) würde den Betrag verdoppeln, wie Martin Schenk erklärt. Das Kundenkapital befand sich am Anfang auf null, doch bereits im nächsten Jahr ermöglichte eine schlanke Kostenstruktur den Jahresabschluss in der Gewinnzone. Die Bank selbst entwickelte sich weiter und verwaltet heute ein Vermögen von über 3.7 Milliarden Franken, was in Zeiten der Krisen äusserst beeindruckend ist. Das letzte Jahr war wegen der CS-Krise für die Zähringer gut, so gewann sie laut Herrn Schenk in diesem Jahr am meisten Neukunden. Dies erreichte sie auch dadurch, dass sie sich auf traditionelles Handwerk fokussiert. Generell seien Bankgründungen heute aber eher untypisch, erklärt Ralph Stadler; dies läge vor allem an den hohen Kosten und dem Aufwand, der damit verbunden sei. Ralph Stadler ist ein Jurist, der nicht bei der Zähringer arbeitet, sich aber sehr gut im Bankenwesen und mit Rechtsfragen auskennt; er hat zusammen mit anderen Juristen das Standardwerk zum Schweizer Bankensystem verfasst. Heute arbeitet der 60-jährige Jurist bei der Investmentfirma Patinex, welche sich auf demselben Gelände wie die BZ Bank, bei der er früher gearbeitet hat, befindet.
 
 {<box>}
+
+## Dr. Jus. Ralph Stadler
+
+
 Ralph Stadler ist ein Jurist, der nicht bei der Zähringer arbeitet, sich aber sehr gut im Bankenwesen und mit Rechtsfragen auskennt; er hat zusammen mit anderen Juristen das Standardwerk zum Schweizer Bankensystem verfasst. Heute arbeitet der 60-jährige Jurist bei der Investmentfirma Patinex, welche sich auf demselben Gelände wie die BZ Bank, bei der er früher gearbeitet hat, befindet.
 {</box>}
 
@@ -46,15 +50,25 @@ Privatbanken bieten laut Herrn Schenk Vorteile, die mit einer Studie von Pricewa
 Bezüglich der Mitarbeiter und der Vollzeitstellen (FTE) sagt die Zähringer Bank, dass sie 60 % FTEs hat. Laut Herrn Schenk legt die Zähringer den Fokus nicht nur auf High-Net-Worth-Personen mit einem Vermögen von 1 bis 5 Millionen CHF. Mit all diesen Punkten kann man zum Schluss kommen, dass die Zähringer Privatbank trotz Ihrer Grösse in die Kategorie der 5 top Performer gezählt werden könnte. Generell lässt sich aber noch festhalten das Privatbanken generell sehr erfolgreich sein können und sie können sogar grössere Banken out-performen. 
 Martin Schenk führt aber auch an, dass es alle Bankentypen, also kantonale, private, Robo- und Grossbanken braucht. Auch wenn er mit der Monster-UBS nicht glücklich ist, ist er sehr froh, dass es nicht zu einer Finanzkrise kam. Ein Problem für kleinere Banken könnten laut einer Person aus einer anderen Bank aber die Kosten werden, die Digitalisierung und die Regulierung, welche für alle Banken gleich ist. Trotz der vielen Vorteile von Privatbanken darf man den Vorteil von Universal- oder Grossbanken nicht unterschätzen, denn sie bieten einen weltweiten Service an und haben teilweise Filialen auf der ganzen Welt. 
 
-Schweizer Bankenmarkt heute
+## Schweizer Bankenmarkt heute
 
 Der Schweizer Bankenmarkt befindet sich in einem Sturm, dieser wurde vor einem Jahr mit dem Fall der Credit Suisse wieder entflammt. Die Meinungen, ob die Übernahme der CS durch die UBS eine gute Lösung ist, gehen auseinander. Herr Schenk und Herr Stadler sind zwar nicht glücklich über die Übernahme, aber froh, dass es damit nicht zu einer Finanzkrise kam. Die Meinung der anonymen Person ist ungenügend bekannt. Trotz der schwierigen Situation im Schweizer Bankenmarkt bleibt dieser für konservative Anleger nach wie vor attraktiv, erklärte Ralph Stadler, was auch von Herrn Schenk und der anonymen Quelle unterstützt wird. Doch wie lässt sich das Vertrauen in den einst stolzen Schweizer Bankenmarkt wieder herstellen? Insbesondere eigentümergeführte Privatbanken bieten einen grossen Vorteil, da eine Eigentümergeführtheit zu mehr Vorsicht führt, was sehr wichtig ist. Trotzdem sind Privatbanken nicht für jedermann geeignet, so dass anderen Bankformen ebenfalls eine grosse Berechtigung haben. Auch Herr Stadler betont, dass nicht spezialisierte Banken, wie dies auch bei vielen der Grossbanken der Fall ist, wichtig seien, dass aber auch spezialisierte Banken im Sinne von Privatbanken einen grossen Sinn machen würden. Es gibt viele Kunden, die bei mehreren Bankentypen ein Konto habe Die anonyme Quelle hält es für den Kunden allerdings für vorteilhaft, wenn dieser seine Konten nur auf eine einzelne Bank beschränkt und damit alles unter einem Dach hat, weil damit der Informationsaustausch einfacher ist. Schlussendlich ist das Vertrauen in eine gut funktionierende Bank eines der wichtigsten Güter, wenn nicht das wichtigste.
 Die Zähringer hat ein sehr spannendes und gutes Arbeitsmodell, welches das Vertrauen der Kunden hochhält. Dennoch darf man die Vorteile, welche eine Universal- oder Grossbank bietet, nicht leugnen.; Am Ende stellt sich die Frage, ob dies andere Banken das Vertrauen wie das einer Privatbank geniessen können. Da Universal oder Grossbanken vermutlich kaum von Eigentümern geführt werden können, müssen sie das Vertrauen hochhalten und somit auch Verantwortung übernehmen, damit die Kunden wissen das man aus den Fehlern lernt und dass ihr Geld sicher ist. Am Ende ist die Zähringerbank mit ihrem System auf einer sehr sicheren Basis für Vertrauen, doch dies können andere Banken auch erreichen, auch wenn sie dafür Ihren Weg gehen müssen.
 
 {<box>}
 
-### 
-Finma
+### Finma
 
 Die Finma die unabhänige Schweizer Finanzaufsichtsbehörde.
+
+### BVG
+
+Das BVG bezeichnet die berufliche Vorsorge. Es ist für jeden Arbeitnehmer eine Pflicht, dort einen Teil seines Lohnes einzubezahlen.
+
+### Operationskosten
+
+Operationskosten sind jene Kosten, die beim Geschäft anfallen, dazu gehören: Lohnkosten, Immobilienkosten usw.
+
+<!--EndFragment-->
+
 {</box>}

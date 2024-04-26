@@ -1,6 +1,6 @@
 +++
 title = "Die Rückkehr der traditionellen Privatbank"
-date = "2024-04-25"
+date = "2024-04-26"
 draft = true
 pinned = false
 image = "bank.jpg"
@@ -14,15 +14,15 @@ Der Bankenmarkt ist seit Jahren in Aufruhr: der Fall von Lehman Brothers im Jahr
 
 Wenn man den Schmidtplatz in Bern hinter dem Kornhaus betritt, muss man zweimal hinschauen, um die Zähringer Privatbank zu erkennen. Diese ist ein starker Kontrast zu den bekannten Banken an der Bahnhofsstrasse oder dem Paradeplatz in Zürich. Sie befindet sich in einem altehrwürdigen Gebäude, direkt neben dem Restaurant Schmiedtstube. Nur ein diskreter Schriftzug und eine Plakette weisen darauf hin. Wenn man die Bank betritt, ist man umgeben von einer strahlenden, stillen, zeitlosen Eleganz. Der Konferenzraum ist holzgetäfelt, und in der Ecke befindet sich ein alter Kachelofen, die Wände wurden im Hellblau der Bank gestrichen. Nach kurzer Zeit begrüsst uns Herr Schenk zusammen mit einer seiner Mitarbeiterinnen. Beide sind sehr ruhig, gelassen und äusserst freundlich. 
 
-![Zähringer Privatbank von Aussen (Bild von Fluirn)](bank.jpg)
+![Zähringer Privatbank von Aussen (© Bild von Fluirn)](bank.jpg)
 
 ## Herr Martin Schenk
 
 Herr Schenk arbeitete, bevor er die Zähringer Bank mitgründete, bei der Wegelin Bank und der Notenstein Bank. Die Wegelin & Co Bank war die älteste Privatbank der Schweiz, bis sie im Jahre 2012 unterging, weil sie sich bei USA-Kundengeschäften die Finger verbannt hatte. Sie nahm den Namen Notenstein AG an, die unter der Raiffeisen Bank tätig war, bevor sie an die Vontobel Bank verkauft worden war. Bei der Bank Wegelin sei alles bis zur Pensionierung durchorganisiert gewesen, erklärt Herr Schenk. Umso mehr habe es ihn getroffen, dass die Bank fiel. Bei Notenstein arbeitete zwar noch ein Kernteam von Wegelin, doch es war nicht mehr das gleiche wie bei Wegelin, denn sie waren nur noch Manager. Diese Enttäuschungen führten unter anderem zur Gründung der Zähringer Bank, bei der noch heute noch ein Kernteam von Wegelin tätig ist. Herr Schenk ist sehr offen hält sich mit seiner Meinung nicht zurück.
 
-## \[Gründung auf einer grünen Wiese]
+## Die Gründung der Zähringer Privatbank
 
->Auf den grünen Wiesen etwas zu machen, das den neuen Verhältnissen entsprechend ist.
+> Auf den grünen Wiesen etwas zu machen, das den neuen Verhältnissen entsprechend ist.
 
 Das Bild einer grünen Wiese, das einen Neuanfang symbolisiert, ist für die Zähringer Bank sehr wichtig. Die Zähringer startete ihr Geschäft im Jahr 2015 ohne Altlasten. Damit konnte sie sich laut Martin Schenk auf die neue Bankenwelt ausrichten. Das Gründen einer Bank sei keine One-Man-Show, so brauchten sie zum Gründen der Zähringer ein Kapital von 20 Millionen Franken; im Gesetz stehe zwar die Hälfte, doch die FINMA (Finanzaufsichtbehörde) würde den Betrag verdoppeln, wie Martin Schenk erklärt. Das Kundenkapital befand sich am Anfang auf null, doch bereits im nächsten Jahr ermöglichte eine schlanke Kostenstruktur den Jahresabschluss in der Gewinnzone. Die Bank selbst entwickelte sich weiter und verwaltet heute ein Vermögen von über 3.7 Milliarden Franken, was in Zeiten der Krisen äusserst beeindruckend ist. Das letzte Jahr war wegen der CS-Krise für die Zähringer gut, so gewann sie laut Herrn Schenk in diesem Jahr am meisten Neukunden. Dies erreichte sie auch dadurch, dass sie sich auf traditionelles Handwerk fokussiert. Generell seien Bankgründungen heute aber eher untypisch, erklärt Ralph Stadler; dies läge vor allem an den hohen Kosten und dem Aufwand, der damit verbunden sei. Ralph Stadler ist ein Jurist, der nicht bei der Zähringer arbeitet, sich aber sehr gut im Bankenwesen und mit Rechtsfragen auskennt; er hat zusammen mit anderen Juristen das Standardwerk zum Schweizer Bankensystem verfasst. Heute arbeitet der 60-jährige Jurist bei der Investmentfirma Patinex, welche sich auf demselben Gelände wie die BZ Bank, bei der er früher gearbeitet hat, befindet.
 
@@ -30,11 +30,12 @@ Das Bild einer grünen Wiese, das einen Neuanfang symbolisiert, ist für die Zä
 
 ## Dr. Jus. Ralph Stadler
 
-
 Ralph Stadler ist ein Jurist, der nicht bei der Zähringer arbeitet, sich aber sehr gut im Bankenwesen und mit Rechtsfragen auskennt; er hat zusammen mit anderen Juristen das Standardwerk zum Schweizer Bankensystem verfasst. Heute arbeitet der 60-jährige Jurist bei der Investmentfirma Patinex, welche sich auf demselben Gelände wie die BZ Bank, bei der er früher gearbeitet hat, befindet.
 {</box>}
 
-## Zähringer System vs. Privatbank heute
+> «Wir nennen den Begriff ‘eigentümergeführt’»
+
+## Zähringer Banking Methode im Vergleich.
 
 Herr Schenk erklärt, dass die Zähringer Bank ein Privatbanking im klassischen Sinn verrichte. Heute sei der Begriff ‘Privatbanking’ neu besetzt. Früher gehörten die Privatbanken Familien, die für Verluste hafteten. Dies führte vermutlich dazu, dass das Vertrauen der Kunden grösser war, die Bank gleichzeitig auch weniger Risiken einging, denn wenn die Bank unterging, bedeutete dies auch den Untergang des Bankiers. Die Beteiligung der Mitarbeiter, wie dies bei der Zähringer der Fall ist, wird von Martin Schenk folgendermassen beschrieben: «Wir nennen den Begriff ‘eigentümergeführt’. Für uns ist eine Bank eigentümergeführt, wenn mehr als zwei Drittel der Aktien den Mitarbeitern gehören». Ralph Stadler sagt zum Thema Gewinnbeteiligung: «Eine richtig verstandene Gewinnbeteiligung bedeutet Gewinn- und Verlustbeteiligung». Dies ist etwas, das die Zähringer mit ihrem System zu erreichen versucht. Herr Schenk führt weiter an, dass die Aktien auch symbolischer Natur seien, denn jemand, der frisch aus der Lehre oder von der Universität komme, könne keine grossen Kapitalsummen aufbringen. 
 Anders als die grossen Privatbanken in Genf und Zürich wie Pictet, Edmond de Rothschild, Sarasin und andere betreibt die Zähringer Privatbank in Bern keine internationalen Kundengeschäfte. Den Anteil von nur 0,8 % internationaler Kunden erklärt Herr Schenk damit, dass sich die Zähringer auf den Standort Schweiz konzentrieren wolle. Dies unterstreicht er mit einer Grafik, die eine Kostenschere zeigt. Diese Kostenschere ist im Vergleich zu früher in vielen Bereichen, auch im internationalen Privatbanking, viel grösser geworden. Der einzige Sektor, bei dem die Zunahme weniger ausgeprägt ist, liegt im Privatbanking ohne internationale Kunden. Der Fokus auf Schweizer Kunden lässt auch die Standortwahl der Zähringer in einem neuen Licht erscheinen, denn Bern ist nicht die Stadt, die einem als erstes einfällt, wenn man von Privatbanken spricht, dies wären eher Genf und Zürich. Herr Schenk erklärt, dass Genf und Zürich zwar bessere Standorte für internationale Banken seien, die Zähringer aber insbesondere mit Kunden aus der Schweiz arbeite, so dass der Standort Bern kein Nachteil sei.
@@ -57,18 +58,13 @@ Die Zähringer hat ein sehr spannendes und gutes Arbeitsmodell, welches das Vert
 
 {<box>}
 
-### Finma
+### Begriffseklärung
 
-Die Finma die unabhänige Schweizer Finanzaufsichtsbehörde.
 
-### BVG
-
-Das BVG bezeichnet die berufliche Vorsorge. Es ist für jeden Arbeitnehmer eine Pflicht, dort einen Teil seines Lohnes einzubezahlen.
-
-### Operationskosten
-
-Operationskosten sind jene Kosten, die beim Geschäft anfallen, dazu gehören: Lohnkosten, Immobilienkosten usw.
-
-<!--EndFragment-->
+**Robo-Banking:** Banking, das automatisch durch Algorithmen durchgeführt wird.
+**Universalbanken:** Banken, die alle Dienstleistungen anbieten.
+**Grossbanken:** Kreditinstitute, die ein besonders grosses Handelsvolumen haben und sehr bedeutend sind.
+**FINMA:** Schweizer Finanzaufsichtsbehörde 
+**Bankgeheimnis:** Geheimhaltung der Kundendaten.
 
 {</box>}

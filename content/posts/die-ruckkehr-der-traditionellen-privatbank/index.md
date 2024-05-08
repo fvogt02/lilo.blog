@@ -5,6 +5,7 @@ draft = false
 pinned = false
 image = "bank.jpg"
 description = "Privatbanking"
+footnotes = "Abb 1. Bild von Flurin Vogt\n\nAbb 2. Grafik von Zähringer Privatbank"
 +++
 {{<lead>}}
 Der Bankenmarkt ist seit Jahren in Aufruhr: der Fall von Lehman Brothers im Jahr 2008 und im letzten Jahr der Fall der Schweizer Credit Suisse. Wieso gründet man in dieser Lage eine Privatbank in der Bundeshauptstadt der Schweiz? Und wie genau schafft es diese Privatbank, sich ohne grössere Probleme durch den Sturm zu bewegen?

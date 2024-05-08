@@ -20,17 +20,19 @@ Wenn man den Schmiedenplatz in Bern hinter dem Kornhaus betritt, muss man zweima
 
 Herr Schenk arbeitete, bevor er die Zähringer Bank mitgründete, bei der Wegelin Bank, der ältesten Privatbank der Schweiz, bis sie im Jahre 2012 unterging, weil sie sich mit USA-Kundengeschäften die Finger verbrannt hatte. Sie nahm den Namen Notenstein AG an, die unter der Raiffeisen Bank tätig war, bevor sie an die Vontobel Bank verkauft wurde. Bei der Bank Wegelin sei alles bis zur Pensionierung durchorganisiert gewesen, und bei der Notenstein hätten sie nur noch als Manager gearbeitet, erklärt Herr Schenk. Umso mehr habe es ihn getroffen, dass die Bank fiel. Diese Enttäuschungen führten unter anderem zur Gründung der Zähringer Bank, bei der noch heute noch ein Kernteam von Wegelin tätig ist. Herr Schenk ist sehr offen und hält sich mit seiner Meinung nicht zurück.
 
-## Die Gründung der Zähringer Privatbank
-
 > Auf den grünen Wiesen etwas zu machen, das den neuen Verhältnissen entsprechend ist.
 
+## Die Gründung der Zähringer Privatbank
+
 Die Gründung der Zähringer Bank 2015 erfolgte laut Herrn Schenk ohne Altlasten, man konnte sich auf die neue Bankenwelt ausrichten, oder wie er formuliert: «Auf den grünen Wiesen etwas zu machen, das den neuen Verhältnissen entsprechend ist». Zum Gründen der Zähringer brauchten sie ein Kapital von 20 Millionen Franken. Im Gesetz stehe zwar die Hälfte, doch die FINMA würde den Betrag verdoppeln. Das Kundenkapital befand sich am Anfang auf null, doch bereits im nächsten Jahr ermöglichte eine schlanke Kostenstruktur den Jahresabschluss in der Gewinnzone. Die Bank selbst entwickelte sich weiter und verwaltet heute ein Vermögen von über 3.7 Milliarden Franken, was in Zeiten der Krisen äusserst beeindruckend ist. Das letzte Jahr war wegen der CS-Krise für die Zähringer gut, so gewann sie laut Herrn Schenk in diesem Jahr am meisten Neukunden. Dies erreichte sie auch damit, dass sie sich auf traditionelles Handwerk fokussiert. Generell seien Bankgründungen heute eher untypisch, erklärt Ralph Stadler; dies läge vor allem an den hohen Kosten und dem Aufwand, der damit verbunden sei. Ralph Stadler ist ein Jurist, der nicht bei der Zähringer Bank arbeitet.
-{<box>}
+
+
+{{<box>}}
 
 ## Dr. Jus. Ralph Stadler
 
 Der 1960 in Montreal geborene Jurist Ralph Stadler kennt sich sehr gut im Bankenwesen und mit Rechtsfragen aus. Er hat zusammen mit anderen Juristen das Standardwerk zum Schweizer Bankensystem («Das Schweizer Bankengeschäft») verfasst. Heute arbeitet er bei der Investmentfirma Patinex, welche sich auf demselben Gelände wie die BZ Bank, bei der er früher gearbeitet hat, befindet. 
-{</box>}
+{{</box>}}
 
 > «Wir nennen den Begriff ‘eigentümergeführt’»
 
@@ -54,11 +56,10 @@ Unter Mitberücksichtigung aller Punkte darf man trotz der vielen Vorteile von P
 
 Der Schweizer Bankenmarkt befindet sich in einem Sturm, dieser wurde vor einem Jahr mit dem Fall der Credit Suisse wieder entflammt. Die Meinungen, ob die Übernahme der CS durch die UBS eine gute Lösung ist, gehen auseinander. Trotz der schwierigen Situation im Schweizer Bankenmarkt bleibt dieser für konservative Anleger nach wie vor attraktiv, erklärt Ralph Stadler, was auch von Herrn Schenk und der anonymen Quelle unterstützt wird. 
 Doch wie lässt sich das Vertrauen in den einst stolzen Schweizer Bankenmarkt wieder herstellen? Insbesondere eigentümergeführte Privatbanken bieten einen grossen Vorteil, da sie ein gutes Kundenvertrauen aufbauen können. Trotzdem sind Privatbanken nicht für jedermann geeignet, sodass andere Bankenformen ebenfalls eine grosse Berechtigung haben. Herr Stadler betont, dass nicht spezialisierte Banken, wie dies bei vielen der Grossbanken der Fall ist, wichtig seien, dass aber auch spezialisierte Banken im Sinne von Privatbanken einen grossen Stellenwert hätten. 
-Viele Kunden legen ihre Konten auf mehreren Banken an. Die anonyme Quelle allerding hält eine Beschränkung der Konten auf nur eine einzelne Bank für den Kunden für vorteilhafter, weil damit der Informationsfluss einfacher ist. Schlussendlich ist das Vertrauen in eine gut funktionierende Bank essentiell.  
+Viele Kunden legen ihre Konten auf mehreren Banken an. Die anonyme Quelle allerding hält eine Beschränkung der Konten auf nur eine einzelne Bank für den Kunden für vorteilhafter, weil damit der Informationsfluss einfacher ist. Schlussendlich ist das Vertrauen in eine gut funktionierende Bank essentiell.\
 Die Zähringer hat ein sehr spannendes und gutes Geschäftsmodell. Dennoch darf und kann man die Vorteile einer Universal- oder Grossbank nicht leugnen. Es stellt sich die Frage, ob auch Universal- oder Grossbanken ein gutes Kundenvertrauen aufbauen können. Da diese Banken vermutlich kaum eigentümergeführt sein können, müssen sie sich der Wichtigkeit des Kundenvertrauens bewusst sein, Verantwortung übernehmen und die Kunden wissen lassen, dass aus Fehlern gelernt wird und dass deren Geld sicher ist. Schlussendlich hat die Zähringer Bank mit ihrem System eine sehr sichere Basis für das Kundevertrauen; dies können andere Banken auch erreichen, auch wenn sie dafür ihren eigenen Weg gehen müssen.
 
-
-{<box>}
+{{<box>}}
 
 ### Begriffseklärung
 
@@ -68,4 +69,4 @@ Die Zähringer hat ein sehr spannendes und gutes Geschäftsmodell. Dennoch darf 
 **FINMA:** Schweizer Finanzaufsichtsbehörde 
 **Bankgeheimnis:** Geheimhaltung der Kundendaten.
 
-{</box>}
+{{</box>}}

@@ -1,7 +1,7 @@
 +++
 title = "Die Rückkehr der traditionellen Privatbank"
 date = "2024-04-26"
-draft = true
+draft = false
 pinned = false
 image = "bank.jpg"
 description = "Privatbanking"

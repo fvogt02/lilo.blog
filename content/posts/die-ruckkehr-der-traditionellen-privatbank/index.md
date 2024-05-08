@@ -70,3 +70,5 @@ Die Zähringer hat ein sehr spannendes und gutes Geschäftsmodell. Dennoch darf 
 **Bankgeheimnis:** Geheimhaltung der Kundendaten.
 
 {{</box>}}
+
+![Vermögenszunahmme Zähringer Privatbank (Quelle: Zähringer Privatbank)](bild1.png)

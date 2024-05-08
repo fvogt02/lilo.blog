@@ -71,4 +71,4 @@ Die Zähringer hat ein sehr spannendes und gutes Geschäftsmodell. Dennoch darf 
 
 {{</box>}}
 
-![Vermögenszunahmme Zähringer Privatbank (Quelle: Zähringer Privatbank)](bild1.png)
+![Vermögenszunahme Zähringer Privatbank (Quelle: Zähringer Privatbank)](bild1.png)

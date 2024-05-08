@@ -15,7 +15,7 @@ Der Bankenmarkt ist seit Jahren in Aufruhr: der Fall von Lehman Brothers im Jahr
 
 Wenn man den Schmiedenplatz in Bern hinter dem Kornhaus betritt, muss man zweimal hinschauen, um die Zähringer Privatbank zu erkennen. Dies ist ein starker Kontrast zu den bekannten Banken an der Bahnhofstrasse oder dem Paradeplatz in Zürich. Sie befindet sich in einem altehrwürdigen Gebäude, direkt neben dem Restaurant Schmiedstube, nur ein diskreter Schriftzug und eine Plakette weisen darauf hin. Wenn man die Bank betritt, ist man umgeben von einer strahlenden, stillen, zeitlosen Eleganz. Der Konferenzraum ist holzgetäfelt und in der Ecke befindet sich ein alter Kachelofen; die Wände wurden im Hellblau der Bank gestrichen. Nach kurzer Zeit begrüsst uns Herr Schenk zusammen mit einer seiner Mitarbeiterinnen. Beide sind sehr ruhig, gelassen und äusserst freundlich. 
 
-![Zähringer Privatbank von Aussen (© Bild von Fluirn)](bank.jpg)
+![Abbildung 1. Zähringer Privatbank von Aussen (© Bild von Fluirn)](bank.jpg)
 
 ## Herr Martin Schenk
 
@@ -72,4 +72,4 @@ Die Zähringer hat ein sehr spannendes und gutes Geschäftsmodell. Dennoch darf 
 
 {{</box>}}
 
-![Vermögenszunahme Zähringer Privatbank (Quelle: Zähringer Privatbank)](bild1.png)
+![Abbildung 2. Vermögenszunahme Zähringer Privatbank (Zähringer Privatbank)](bild1.png)

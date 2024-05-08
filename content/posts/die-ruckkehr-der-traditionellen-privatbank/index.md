@@ -45,7 +45,6 @@ Laut Herrn Stadler bedeuten die für Banken zunehmend ansteigenden Kosten ein zu
 Mit dem Wegfall des internationalen Kundengeschäftes konzentriert sich die Zähringer auf Vermögensverwaltung, -erhaltung und im besten Falle -wachstum; ein zusätzlicher Sektor ist die berufliche Vorsorge (BVG). Auf die Frage, ob die Bank lieber Privat- oder Vorsorgevermögen verwalte, erklärt Herr Schenk schmunzelnd, dass zwischen den beiden Typen nur ein Altersunterschied bestehe. Zuerst würde jemand in das Vorsorgevermögen einzahlen, sobald er pensioniert sei, rutsche er ins Privatvermögen. 
 Privatbanken haben den Ruf, dass sie nur vermögenden Menschen zugänglich sind. Die Zähringer Bank macht aber gemäss Herrn Schenk keine Kundenselektion, da auch junge Menschen mit noch geringem Vermögen in ihrer weiteren Laufbahn erfolgreich sein und zu Geld kommen könnten. 
 
-
 ## Vorteile von Privatbanken
 
 Privatbanken bieten laut Herrn Schenk Vorteile, die mit einer 2023 veröffentlichten Studie von PricewaterhouseCoopers (PwC), einer Beratungs- und Prüfungsfirma, untermauert werden. Diese Studie besagt, dass erfolgreiche Privatbanken ein Kerngeschäft haben sollten, das traditionelle Investments und standardisierte Preiskonditionen beinhaltet. Auch betont sie die Wichtigkeit von privaten (nicht institutionellen) Kunden mit Schweizer Domizil und einem investierbaren Kapital von 1 bis 5 Millionen Franken. Bezüglich der Mitarbeiter empfiehlt die Studie mindestens 40 % Vollzeitstellen (FTE). Alle operativen Kosten sollten flexibel sein und alle Tätigkeiten ausser den Kerngeschäften ausgelagert werden. Die Studie kommt zum Schluss, dass auch kleine Privatbanken grössere Privatbanken übertrumpfen können, wenn sie sich an die obigen Aspekte halten.
@@ -53,7 +52,6 @@ Bezüglich der Mitarbeiter hat die Zähringer Bank 60 % Vollzeitstellen (FTE). D
 Martin Schenk ergänzt aber, dass es alle Bankentypen, also private, kantonale, Robo- und Grossbanken brauche. Auch wenn er mit der Monster-UBS nicht glücklich sei, habe man damit eine Finanzkrise verhindern können. Laut der anonymisierten Person könnten die hohen Kosten für die Digitalisierung und Regulierung, die für alle Banken gleich sind, für kleinere Banken ein Problem werden. 
 Unter Mitberücksichtigung aller Punkte darf man trotz der vielen Vorteile von Privatbanken die Wichtigkeit von Universal- oder Grossbanken nicht unterschätzen, zumal Letztere teilweise auch einen weltweiten Service anbieten mit Filialen auf der ganzen Welt. 
  
-
 ## Schweizer Bankenmarkt heute
 
 Der Schweizer Bankenmarkt befindet sich in einem Sturm, dieser wurde vor einem Jahr mit dem Fall der Credit Suisse wieder entflammt. Die Meinungen, ob die Übernahme der CS durch die UBS eine gute Lösung ist, gehen auseinander. Trotz der schwierigen Situation im Schweizer Bankenmarkt bleibt dieser für konservative Anleger nach wie vor attraktiv, erklärt Ralph Stadler, was auch von Herrn Schenk und der anonymen Quelle unterstützt wird. 

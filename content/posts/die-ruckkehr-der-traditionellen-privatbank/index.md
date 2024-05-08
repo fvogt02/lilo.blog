@@ -27,7 +27,6 @@ Herr Schenk arbeitete, bevor er die Zähringer Bank mitgründete, bei der Wegeli
 
 Die Gründung der Zähringer Bank 2015 erfolgte laut Herrn Schenk ohne Altlasten, man konnte sich auf die neue Bankenwelt ausrichten, oder wie er formuliert: «Auf den grünen Wiesen etwas zu machen, das den neuen Verhältnissen entsprechend ist». Zum Gründen der Zähringer brauchten sie ein Kapital von 20 Millionen Franken. Im Gesetz stehe zwar die Hälfte, doch die FINMA würde den Betrag verdoppeln. Das Kundenkapital befand sich am Anfang auf null, doch bereits im nächsten Jahr ermöglichte eine schlanke Kostenstruktur den Jahresabschluss in der Gewinnzone. Die Bank selbst entwickelte sich weiter und verwaltet heute ein Vermögen von über 3.7 Milliarden Franken, was in Zeiten der Krisen äusserst beeindruckend ist. Das letzte Jahr war wegen der CS-Krise für die Zähringer gut, so gewann sie laut Herrn Schenk in diesem Jahr am meisten Neukunden. Dies erreichte sie auch damit, dass sie sich auf traditionelles Handwerk fokussiert. Generell seien Bankgründungen heute eher untypisch, erklärt Ralph Stadler; dies läge vor allem an den hohen Kosten und dem Aufwand, der damit verbunden sei. Ralph Stadler ist ein Jurist, der nicht bei der Zähringer Bank arbeitet.
 
-
 {{<box>}}
 
 ## Dr. Jus. Ralph Stadler
@@ -65,9 +64,17 @@ Die Zähringer hat ein sehr spannendes und gutes Geschäftsmodell. Dennoch darf 
 ### Begriffseklärung
 
 **Robo-Banking:** Banking, das automatisch durch Algorithmen durchgeführt wird.
+
+
 **Universalbanken:** Banken, die alle Dienstleistungen anbieten.
+
+
 **Grossbanken:** Kreditinstitute, die ein besonders grosses Handelsvolumen haben und sehr bedeutend sind.
-**FINMA:** Schweizer Finanzaufsichtsbehörde 
+
+
+**FINMA:** Schweizer Finanzaufsichtsbehörde.
+
+ 
 **Bankgeheimnis:** Geheimhaltung der Kundendaten.
 
 {{</box>}}

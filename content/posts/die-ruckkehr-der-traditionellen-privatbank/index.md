@@ -11,7 +11,7 @@ footnotes = "Abb 1. Bild von Flurin Vogt\n\nAbb 2. Grafik von Zähringer Privatb
 Der Bankenmarkt ist seit Jahren in Aufruhr: der Fall von Lehman Brothers im Jahr 2008 und im letzten Jahr der Fall der Schweizer Credit Suisse. Wieso gründet man in dieser Lage eine Privatbank in der Bundeshauptstadt der Schweiz? Und wie genau schafft es diese Privatbank, sich ohne grössere Probleme durch den Sturm zu bewegen?
 {{</lead>}}
 
-*von Cederic und Flurin*
+*von Cedric und Flurin*
 
 Wenn man den Schmiedenplatz in Bern hinter dem Kornhaus betritt, muss man zweimal hinschauen, um die Zähringer Privatbank zu erkennen. Dies ist ein starker Kontrast zu den bekannten Banken an der Bahnhofstrasse oder dem Paradeplatz in Zürich. Sie befindet sich in einem altehrwürdigen Gebäude, direkt neben dem Restaurant Schmiedstube, nur ein diskreter Schriftzug und eine Plakette weisen darauf hin. Wenn man die Bank betritt, ist man umgeben von einer strahlenden, stillen, zeitlosen Eleganz. Der Konferenzraum ist holzgetäfelt und in der Ecke befindet sich ein alter Kachelofen; die Wände wurden im Hellblau der Bank gestrichen. Nach kurzer Zeit begrüsst uns Herr Schenk zusammen mit einer seiner Mitarbeiterinnen. Beide sind sehr ruhig, gelassen und äusserst freundlich. 
 
@@ -51,14 +51,13 @@ Privatbanken bieten laut Herrn Schenk Vorteile, die mit einer 2023 veröffentlic
 Bezüglich der Mitarbeiter hat die Zähringer Bank 60 % Vollzeitstellen (FTE). Die Zähringer erfüllt 4 der obigen 5 Aspekte (keine High Net-Worth-Personen mit einem Vermögen von 1 bis 5 Millionen CHF), sodass man zum Schluss kommen kann, dass die Zähringer Privatbank in die Kategorie der 5 top Performer fällt. 
 Martin Schenk ergänzt aber, dass es alle Bankentypen, also private, kantonale, Robo- und Grossbanken brauche. Auch wenn er mit der Monster-UBS nicht glücklich sei, habe man damit eine Finanzkrise verhindern können. Laut der anonymisierten Person könnten die hohen Kosten für die Digitalisierung und Regulierung, die für alle Banken gleich sind, für kleinere Banken ein Problem werden. 
 Unter Mitberücksichtigung aller Punkte darf man trotz der vielen Vorteile von Privatbanken die Wichtigkeit von Universal- oder Grossbanken nicht unterschätzen, zumal Letztere teilweise auch einen weltweiten Service anbieten mit Filialen auf der ganzen Welt. 
- 
+
 ## Schweizer Bankenmarkt heute
 
 Der Schweizer Bankenmarkt befindet sich in einem Sturm, dieser wurde vor einem Jahr mit dem Fall der Credit Suisse wieder entflammt. Die Meinungen, ob die Übernahme der CS durch die UBS eine gute Lösung ist, gehen auseinander. Trotz der schwierigen Situation im Schweizer Bankenmarkt bleibt dieser für konservative Anleger nach wie vor attraktiv, erklärt Ralph Stadler, was auch von Herrn Schenk und der anonymen Quelle unterstützt wird. 
 Doch wie lässt sich das Vertrauen in den einst stolzen Schweizer Bankenmarkt wieder herstellen? Insbesondere eigentümergeführte Privatbanken bieten einen grossen Vorteil, da sie ein gutes Kundenvertrauen aufbauen können. Trotzdem sind Privatbanken nicht für jedermann geeignet, sodass andere Bankenformen ebenfalls eine grosse Berechtigung haben. Herr Stadler betont, dass nicht spezialisierte Banken, wie dies bei vielen der Grossbanken der Fall ist, wichtig seien, dass aber auch spezialisierte Banken im Sinne von Privatbanken einen grossen Stellenwert hätten. 
-Viele Kunden legen ihre Konten auf mehreren Banken an. Die anonyme Quelle allerding hält eine Beschränkung der Konten auf nur eine einzelne Bank für den Kunden für vorteilhafter, weil damit der Informationsfluss einfacher ist. Schlussendlich ist das Vertrauen in eine gut funktionierende Bank essentiell.  
+Viele Kunden legen ihre Konten auf mehreren Banken an. Die anonyme Quelle allerding hält eine Beschränkung der Konten auf nur eine einzelne Bank für den Kunden für vorteilhafter, weil damit der Informationsfluss einfacher ist. Schlussendlich ist das Vertrauen in eine gut funktionierende Bank essentiell.\
 Die Zähringer hat ein sehr spannendes und gutes Geschäftsmodell. Dennoch darf und kann man die Vorteile einer Universal- oder Grossbank nicht leugnen. Es stellt sich die Frage, ob auch Universal- oder Grossbanken ein gutes Kundenvertrauen aufbauen können. Da diese Banken vermutlich kaum eigentümergeführt sein können, müssen sie sich der Wichtigkeit des Kundenvertrauens bewusst sein, Verantwortung übernehmen und die Kunden wissen lassen, dass aus Fehlern gelernt wird und dass deren Geld sicher ist. Schlussendlich hat die Zähringer Bank mit ihrem System eine sehr sichere Basis für das Kundevertrauen; dies können andere Banken auch erreichen, auch wenn sie dafür ihren eigenen Weg gehen müssen.
-
 
 {{<box>}}
 
@@ -66,16 +65,12 @@ Die Zähringer hat ein sehr spannendes und gutes Geschäftsmodell. Dennoch darf 
 
 **Robo-Banking:** Banking, das automatisch durch Algorithmen durchgeführt wird.
 
-
 **Universalbanken:** Banken, die alle Dienstleistungen anbieten.
-
 
 **Grossbanken:** Kreditinstitute, die ein besonders grosses Handelsvolumen haben und sehr bedeutend sind.
 
-
 **FINMA:** Schweizer Finanzaufsichtsbehörde.
 
- 
 **Bankgeheimnis:** Geheimhaltung der Kundendaten.
 
 {{</box>}}
